@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on: building full-stack web applications using the MERN stack and developing AI-based tools and automation projects.<br>
+🔭 I’m currently working on: building full-stack web applications, developing AI-based tools and automation projects.<br>
 👯 I’m looking to collaborate on: open-source web applications, React/Next.js projects, and innovative developer tools.<br>
 🤝 I’m looking for help with: advanced backend architecture, scalable APIs, and cloud deployment using Docker and AWS.<br>
 🌱 I’m currently learning: advanced MERN stack concepts, Next.js optimization techniques, and real-time applications using WebSockets.<br>
@@ -29,13 +29,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hamzaa09&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=Hamzaa09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Hamzaa09&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaa09&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
+![](https://nirzak-streak-stats.vercel.app/?user=Hamzaa09&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaa09&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Hamzaa09&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
