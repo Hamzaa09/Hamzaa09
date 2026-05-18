@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Hamzaa09&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Hamzaa09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Hamzaa09&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=Hamzaa09&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaa09&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaa09&theme=dark&hide_border=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
