@@ -73,8 +73,8 @@ Currently all in on AI/ML.
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-112240.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028870688884)
-[![Instagram](https://img.shields.io/badge/Instagram-112240.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m.hamza_101/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-112240.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-109413300/)
+[![Facebook](https://img.shields.io/badge/Facebook-1C4065.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028870688884)
+[![Instagram](https://img.shields.io/badge/Instagram-1C4065.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m.hamza_101/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C4065.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-109413300/)
 
 </div>
