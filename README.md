@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=rect&color=2876A4&height=160&section=header&text=Muhammad%20Hamza&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=40&desc=Jack%20of%20All%20Spades&descAlign=50&descAlignY=65&descSize=20&descColor=FFFFFF)
+![](https://capsule-render.vercel.app/api?type=rect&color=1C4065&height=160&section=header&text=Muhammad%20Hamza&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=40&desc=Jack%20of%20All%20Spades&descAlign=50&descAlignY=65&descSize=20&descColor=FFFFFF)
 
 
 <div align="center">
