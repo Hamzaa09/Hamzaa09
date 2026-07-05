@@ -11,7 +11,9 @@ Currently all in on AI/ML.
 
 </div>
 
+<br/>
 ---
+<br/>
 
 ## 💻 Tech Stack:
 
@@ -61,12 +63,14 @@ Currently all in on AI/ML.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-black?style=for-the-badge&logo=python&logoColor=white)
 
+<br/>
 ---
+<br/>
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028870688884)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m.hamza_101/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-109413300/)
+[![Facebook](https://img.shields.io/badge/Facebook-112240.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028870688884)
+[![Instagram](https://img.shields.io/badge/Instagram-112240.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m.hamza_101/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-112240.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-109413300/)
 
 </div>
