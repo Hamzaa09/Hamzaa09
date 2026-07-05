@@ -1,4 +1,4 @@
-![](https://capsule-render.vercel.app/api?type=rect&color=112240&height=120&section=header&text=Muhammad%20Hamza&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=40&desc=Jack%20of%20All%20Spades&descAlign=50&descAlignY=65&descSize=20&descColor=FFFFFF)
+![](https://capsule-render.vercel.app/api?type=rect&color=112240&height=140&section=header&text=Muhammad%20Hamza&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=40&desc=Jack%20of%20All%20Spades&descAlign=50&descAlignY=65&descSize=20&descColor=FFFFFF)
 
 
 Undergrad computer scientist exploring different tech stacks along the way.
@@ -12,7 +12,9 @@ Currently all in on AI/ML.
 </div>
 
 <br/>
+
 ---
+
 <br/>
 
 ## 💻 Tech Stack:
@@ -64,7 +66,9 @@ Currently all in on AI/ML.
 ![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-black?style=for-the-badge&logo=python&logoColor=white)
 
 <br/>
+
 ---
+
 <br/>
 
 <div align="center">
