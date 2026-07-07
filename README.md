@@ -17,25 +17,25 @@ Currently all in on AI/ML.
 
 ### C / C++ / Java
 
-#### [Tic Tac Toe](https://github.com/Hamzaa09/C-Projects) &nbsp; ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![MinGW](https://img.shields.io/badge/MinGW-595959?style=flat-square&logo=mingww64&logoColor=white)
+**[Tic Tac Toe](https://github.com/Hamzaa09/C-Projects)** &nbsp; ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![MinGW](https://img.shields.io/badge/MinGW-595959?style=flat-square&logo=mingww64&logoColor=white)
 > A console-based Tic Tac Toe game supporting two-player and single-player (vs Computer) modes.
 
 
-#### [Student Management System](https://github.com/Hamzaa09/C-Plus-Projects) &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![MinGW](https://img.shields.io/badge/MinGW-595959?style=flat-square&logo=mingww64&logoColor=white)
+**[Student Management System](https://github.com/Hamzaa09/C-Plus-Projects)** &nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![MinGW](https://img.shields.io/badge/MinGW-595959?style=flat-square&logo=mingww64&logoColor=white)
 > A console-based Student Management System using binary file I/O to add, view, search, and delete student records.
 
 
-#### [H&M's Cafe - Queue Tracker](https://github.com/Hamzaa09/Java-Projects) &nbsp; ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+**[H&M's Cafe - Queue Tracker](https://github.com/Hamzaa09/Java-Projects)** &nbsp; ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 > A queue- and stack-based waitlist and promotions app for a cafe, with separate user and staff portals.
 
 <br/>
 
 ### AI Projects
 
-#### [Hand Gesture Controller](https://github.com/Hamzaa09/Python_CameraVision) &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**[Hand Gesture Controller](https://github.com/Hamzaa09/Python_CameraVision)** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 > A touch-free interaction system that lets you control your computer using hand gestures alone, tracked in real time through a webcam.
 
-#### [AI YouTube Video Generator](https://github.com/Hamzaa09/n8nWorkflows) &nbsp; ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+**[AI YouTube Video Generator](https://github.com/Hamzaa09/n8nWorkflows)** &nbsp; ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 > Automation that automatically generates AI videos, uploads them to YouTube, stores records in Google Sheets, and sends notifications via WhatsApp and Email. All with just one command.
 
 <br/>
