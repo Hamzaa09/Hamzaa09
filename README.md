@@ -40,7 +40,8 @@ Currently all in on AI/ML.
 
 <br/>
 
-### Web Projects
+
+### Web (MERN)
  
 **[CEMS - Cricket Equipment Management System](https://github.com/Hamzaa09/4th-Semester-Project-CEMS)** &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 > An inventory and order management system for a cricket equipment warehouse, with role-based portals for Admin, Booker, and Supplier.
@@ -52,6 +53,13 @@ Currently all in on AI/ML.
 > A fully custom e-commerce platform with an AI chat assistant, multi-provider auth, Stripe checkout, and a full admin dashboard.
 
 <br/>
+
+### Mobile (React Native)
+
+**[Bazm](https://github.com/Hamzaa09/ReactNative-App)** &nbsp; ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+> A location-based social app for discovering and connecting around gatherings, with maps, image sharing, and authentication. Android build available.
+
+<br/>
 <br/>
 
 ## 💻 Tech Stack:
@@ -59,6 +67,8 @@ Currently all in on AI/ML.
 ### Languages:  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ### Frontend: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/zustand-433E38?style=flat-square&logo=react&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=flat-square&logo=daisyui&logoColor=white) ![MUI](https://img.shields.io/badge/mui-%230081CB.svg?style=flat-square&logo=mui&logoColor=white) ![GSAP](https://img.shields.io/badge/gsap-88CE02?style=flat-square&logo=greensock&logoColor=white) ![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=flat-square)
+
+### Mobile: ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white) ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend: ![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-%233982CE.svg?style=flat-square&logo=Prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
