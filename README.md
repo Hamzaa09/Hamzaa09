@@ -90,25 +90,3 @@ Currently all in on AI/ML.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-121011.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-109413300/)
 
 </div>
-
-### Backend: ![NodeJS](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![ExpressJS](https://img.shields.io/badge/express.js-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/prisma-%233982CE.svg?style=flat-square&logo=Prisma&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-### AI: ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![Mediapipe](https://img.shields.io/badge/Mediapipe-0097A7?style=flat-square) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-### ML: ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Others: ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-black?style=flat-square&logo=python&logoColor=white)
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-121011.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028870688884)
-[![Instagram](https://img.shields.io/badge/Instagram-121011.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m.hamza_101/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-121011.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hamza-109413300/)
-
-</div>
