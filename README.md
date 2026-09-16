@@ -35,10 +35,14 @@ Currently all in on AI/ML.
 
 <br/>
 
-### AI Projects
+### Computer Vision (Python)
 
 **[Hand Gesture Controller](https://github.com/Hamzaa09/Python_CameraVision)** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 > A touch-free interaction system that lets you control your computer using hand gestures alone, tracked in real time through a webcam.
+
+<br/>
+
+### AI Projects
 
 **[AI YouTube Video Generator](https://github.com/Hamzaa09/n8nWorkflows)** &nbsp; ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 > Automation that automatically generates AI videos, uploads them to YouTube, stores records in Google Sheets, and sends notifications via WhatsApp and Email. All with just one command.
