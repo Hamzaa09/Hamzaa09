@@ -24,15 +24,15 @@ Currently all in on AI/ML.
 
 ### Web (MERN)
  
-**[CEMS - Cricket Equipment Management System](https://github.com/Hamzaa09/4th-Semester-Project-CEMS)** &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-> An inventory and order management system for a cricket equipment warehouse, with role-based portals for Admin, Booker, and Supplier.
- 
 **[Chat Up](https://github.com/Hamzaa09/MERN-ChatApp)** &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 > A real-time chat application with live presence, JWT authentication, and image/emoji sharing.
  
 **[JOGKAR](https://github.com/Hamzaa09/E-commerce-Store)** &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 > A fully custom e-commerce platform with an AI chat assistant, multi-provider auth, Stripe checkout, and a full admin dashboard.
 
+**[CEMS - Cricket Equipment Management System](https://github.com/Hamzaa09/4th-Semester-Project-CEMS)** &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+> An inventory and order management system for a cricket equipment warehouse, with role-based portals for Admin, Booker, and Supplier.
+ 
 <br/>
 
 ### Computer Vision (Python)
