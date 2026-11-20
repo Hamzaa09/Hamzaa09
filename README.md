@@ -7,7 +7,7 @@ Undergrad computer scientist exploring different tech stacks along the way.
 Currently all in on AI/ML.
 
 
-🌐 [hamza.com](https://portfolio-chi-seven-267nhn5x4p.vercel.app/) &nbsp;-&nbsp; 📧 [hamza036513@gmail.com](mailto:hamza036513@gmail.com)
+🌐 [hamzaa.dev](https://portfolio-chi-seven-267nhn5x4p.vercel.app/) &nbsp;-&nbsp; 📧 [hamza036513@gmail.com](mailto:hamza036513@gmail.com)
 
 </div>
 
